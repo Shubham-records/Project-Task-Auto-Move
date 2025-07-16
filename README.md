@@ -1,0 +1,1 @@
+This is an Odoo 18 module, I created that for the project module because I want a functionality where if all subtask of the main task is completed, then the task should move to another stage automatically, rather than manual clicks and drag & drop needed.
